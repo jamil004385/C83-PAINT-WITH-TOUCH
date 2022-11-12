@@ -1,0 +1,20 @@
+.body_background{
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#myCanvas{
+    border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+}
+
+input{
+    font-size: 20px;
+}
+
+button{
+    font-size: 20px;
+    background-color: green ;
+}
